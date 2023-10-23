@@ -1,0 +1,40 @@
+@font-face {
+    font-family:'lemonmilk';
+    font-weight: 700;
+    font-style: normal;
+    src: url(lemonmilkregular.otf)format('otf');   
+}
+
+@font-face {
+    font-family:'lemonmilk';
+    font-weight: 100;
+    font-style: normal;
+    src: url(lemonmilkbold.otf)format('otf');
+}
+
+html {
+    background-color: white;
+
+}
+body {
+    font-family: 'LemonMilk';
+}
+
+.wrapper {
+    position: relative;
+    background-color: white;
+    margin: 5rem 5rem 0;
+    padding: 3rem;
+}
+h1 {font-family: 'LemonMilk';
+    margin-block-start: 0;
+    margin-block-end: 0;
+    font-size: 3.5rem;
+}
+h1 .larger-names{
+    font-size: 5rem;
+    line-height: 0.8;
+    margin-top: 0.5rem;
+}
+
+h1 .title
