@@ -37,4 +37,7 @@ h1 .larger-names{
     margin-top: 0.5rem;
 }
 
-h1 .title
+img {
+    width: auto;
+    margin-top: .25%;
+}
